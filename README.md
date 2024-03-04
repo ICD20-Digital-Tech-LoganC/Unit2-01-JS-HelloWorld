@@ -1,10 +1,10 @@
-# ICS2O Unit #X-YY
+# ICS2O Unit #2-01
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/Logan-T-Connors/Unit2-01-JS-HelloWorld/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Logan-T-Connors/Unit2-01-JS-HelloWorld/actions)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Deploy Pages](https://github.com/Logan-T-Connors/Unit2-01-JS-HelloWorld/workflows/Deploy%20Pages/badge.svg)](https://github.com/Logan-T-Connors/Unit2-01-JS-HelloWorld/actions)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://Logan-T-Connors.github.io/Unit2-01-JS-HelloWorld](https://Logan-T-Connors.github.io/Unit2-01-JS-HelloWorld)
 
 ---
 
